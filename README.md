@@ -12,7 +12,7 @@ This repo hosts some online / hybrid teaching and learning materials I've create
     3. Coverage: main topics from Chapter 1 to Chapter 7.
     2. [YouTube playlist link](https://www.youtube.com/playlist?list=PL_lWxa4iVNt0fqxLbc-nvmvhCqsvtwQKN).
     
-4. A few set of lecture recordings on undergraduate-level Bayesian Statistics. For more information, visit [this repo](https://github.com/monika76five/Undergrad-Bayesian-Statistics).
+4. A few set of lecture recordings of a semester-long undergraduate-level Bayesian Statistics course at Vassar College, NY. For more information, visit [this repo](https://github.com/monika76five/Undergrad-Bayesian-Statistics).
 
 
 ## Other resources
