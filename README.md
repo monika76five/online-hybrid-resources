@@ -1,6 +1,6 @@
 # Resources for Online / Hybrid Teaching and Learning
 
-This repo hosts some online / hybrid teaching and learning materials I've created given my few years of sharing courses on the [Liberal Arts Collaborative for Digital Innovation](https://lacol.net/).
+This repo hosts some online / hybrid teaching and learning materials I've created given my few years of sharing courses on the [Liberal Arts Collaborative for Digital Innovation](https://lacol.net/) platform.
 
 1. [A short video presentation](https://www.youtube.com/watch?v=MclwbW7zv7o&list=PL_lWxa4iVNt2-cuyCUqaAEFNdmz1bcRZt) at LACOL 2018 meeting, about the course mechanics of sharing Vassar's MATH 347 across campuses.
 
